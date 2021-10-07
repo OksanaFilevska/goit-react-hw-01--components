@@ -2,11 +2,7 @@
   "name": "goit-react-hw-01-components",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
-  "homepage": "https://OksanaFilevska.github.io/goit-react-hw-01-components",
-=======
   "homepage": "https://OksanaFilevska.github.io/goit-react-hw-01--components",
->>>>>>> 4fba232283a911f68a5e1d9f394f68d7a3cf76ca
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
